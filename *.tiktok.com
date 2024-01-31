@@ -1,4 +1,8 @@
+---------------------------------
+https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tiktok_privacy_protection_framework/config/network.json
+https://cp-game.tiktok.com/login
 
+----------------------------------
 https://ads.tiktok.com
 https://business-sso.tiktok.com/
 https://www.tiktok.com/404
